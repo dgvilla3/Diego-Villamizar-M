@@ -1,0 +1,84 @@
+                               Lista de Chequeo sobre los aspectos más importantes que contribuyan a perpetuidad de una colección microbiana en el tiempo
+
+Nombre: Diego Armando Villamizar Mantilla
+Código: 2228420
+
+1. Alineamiento para el manejo de colección microbianas conforme al DECRETO 1375 DE 2013 que se regula las colecciones biológicas en el territorio nacional colombiano. 
+
+   1.1 Políticas de colecciones: Se debe elaborar un documento por escrito donde se definan los principios que orientarán el manejo correcto de la colección. En su contenido debe 	presentarse las reglas que regirán un plan de colecciones, con el propósito de promover su crecimiento y desarrollo en las investigación. 
+
+   1.2 Alcance de las colecciones: Toda colección debe estar determinada por una misión específica. Por tal motivo, se debe expresar claramente cuál es la razón de ser de la colección 	microbiana, definiendo claramente qué hace, para qué existe, para quién y cómo. Por ejemplo, el cepario LMMA de la universidad Industrial de Santander- Colombia establece como 	misión: salvaguardar la diversidad o acervo genético microbiano en Colombia; así como, soportar la actividad académica y de investigación de los programas de pregrado y posgrado de 	la 	UIS
+   
+   1.3 ¿Qué se colecciona?: se deben coleccionar Principalmente microorganismos aislados de muestras ambientales, clínicas o fuentes biotecnológicas como ambientes extremos en Colombia. De 	esas fuentes se extraen los diferentes elementos que suelen constituir una colección microbiana: 
+
+       1.3.1 Cepa Microbiana Pura: Se debe registrar microorganismos aislados que representen una sola especie
+
+       1.3.2 Cepas de referencia: se debe depositar microorganismos certificado en diferentes disciplinas para el control de calidad en la microbiología. Las ATCC son cultivos estándares 	que tienen características bien definidas y de procedencia conocía. Se utilizan en los laboratorios para validar métodos, control de calidad de los cultivos y asegurar la 	fiabilidad de los resultados.
+
+       1.3.3 Cepas ambientales: debe contener microorganismos aislados de muestras ambientales como agua, suelo, aire, sedimento o superficies de organismos vivos. 
+
+       1.3.4 Cepas de interés biotecnológico: A medida se identifiquen, describan y se registre con claridad la importancia de los microorganismos de la colección, se deben registrar esos 	resultados de la caracterización, describiendo sus usos y aplicaciones biotecnológicas potenciales.
+
+       1.3.5 Cepas relevantes para la colección: Son microorganismos usados como base en investigación mediante su uso como modelos en pruebas microbiológicas (por ejemplo: E. coli PQ37 en 	el ensayo SOS Chromotest)
+
+       1.3.5 Holotipo: Cuando aplica, la colección debe poseer el ejemplar que los investigadores designaron como nueva especie. 
+  
+   1.4 Registro Único Nacional de Colecciones Biológicas: Se realiza un registro de los datos de la colección microbiana en la plataforma RNC (http://rnc.humboldt.org.co/wp/colecciones) 	con el fin de integrar la colección al instrumento público nacional diseñado para difundir la información sobre las colecciones biológicas en nuestro país Colombia. 
+
+   1.5 Titular de la colección: usualmente es la institución o persona jurídica que representa y administra legalmente los recursos de la colección a través de sus investigadores.  
+
+   2. Protocolo de colecta de muestras ambientales: Los microorganismos de colectan siguiendo metodologías específicas para cada tipo de ambiente que se desea muestrear. 
+
+       2.1 Muestras de agua: Las bacterias se colectan usando botellas de vidrió limpias y estériles.
+
+       2.2 Muestras de sedimento: las muestras se deben tomar usando una draga Ekman sanitizada y luego, depositar la colecta en un frasco de vidrio estéril.
+
+       2.3 Muestras de biopelículas: La toma se realiza usando un raspador de células estériles y se deposita en una botella estéril. 
+
+       2.4 Muestras de bacterias anaerobias:  Las muestras de microorganismos anaerobios se recolectan en tubos de plástico estériles que contienen glicerol al 30% y que previamente han    	sido gasificado con CO2 para desplazar el oxígeno.
+ 
+       2.5 transporte de muestras: se debe garantizar el transporte adecuado de las muestras colectadas donde sus recipientes estén bien sellados y mantenidas a una temperatura de 4C 	durante su transporte al laboratorio. 
+
+   3. Medios de cultivo, aislamiento y preservación: Se pueden utilizar medios comerciales como (RCM; M9Y, Caldo nutritivo, Luria bertani, BG11 y DSMZ) para los cultivos bacterianos. Estos 	proveerán a las microorganismos de los elementos esenciales para su crecimiento celular como: aminoácidos, proteínas, carbohidratos , nitrógeno, carbono y lípidos.  
+
+       3.1 Incubación: Las muestras de microorganismos aerobios se colocan en tubos con medios de crecimiento en su interior. Estos se deben incubar a una temperatura entre 10 a 37 C por 7 	días. El procedimiento se repite pero usando una cámara de CO2 Midi 40 TM para el crecimiento anaerobio. 
+
+       3.2 Aislamiento: Se debe usar la Solución salina al 75 % (Cloruro de sodio) para preparar las distintas diluciones seriadas que usará para la siembra en medios sólidos para el 	aislamiento microbiano aerobio. Las condiciones anaerobias se replican usando la cámara CO2 Midi 40 TM y el Sistema de Generación AnaeroGen™ (CO2).
+   
+       3.3 Preservación: Todos los microorganismos aislados en el laboratorio se criopreservan a -80 grados centígrados, utilizando el método de glicerol al 30%. Cada vial debe estar 	correctamente etiquetado con su código interno y fecha de conservación.
+
+       3.4 Base de datos y Darwincore: Todas las cepas aisladas en el laboratorio se registran empleando el archivo darwincore, utilizando una terminología estandarizada para su 	catalogación y 	posterior publicación. 
+
+   4. Protocolo para el mantenimiento y viabilidad de las cepas: Es necesario llevar un control periódico del método de conservación usada en la colección microbiana, evaluando la 	viabilidad de las cepas en el tiempo.
+
+       4.1 Reactivación de las cepas: El material crio preservado en un vial debe transferirse todo su contenido a un medio líquido fresco para iniciar su crecimiento. 
+          
+       4.2 incubación: Las cepas inoculadas deben incubarse a temperaturas óptimas de crecimiento microbiano, este variará de acuerdo a los grupo taxonómicos que se vayan a revivir. 
+
+       4.3 Purificación: Las cepas reactivadas se probará su pureza mediante siembras por estría de agotamiento en el medio sólidos que haya sido aislado. 
+
+       4.4 Verificación de la pureza: Se debe realizar una tinción GRAM para evaluar la confiabilidad del proceso de purificación de la cepa. 
+ 
+       4.5 Conservación de las cepas: Las cepas microbianas se siembran por extensión para favorecer el desarrollo de un tapete de biomasa bacteriana sobre a superficie del cultivo 	sólido. Acto seguido, se recupera mediante un hisopo estéril para su conservación en una solución de glicerol al 30 %.
+
+       4.6 Actualización de la base datos: los datos nuevos de viabilidad deben integrarse al documento Darwin Core. Se deben incorporar toda información importante para el monitoreo de la 	efectividad del método de conservación, fechas y fotos macroscópicas y microscópicas del microorganismo. 
+
+   5. Registro Internacional: Cuando una colección cumple con unos parámetros mínimos que garanticen su funcionamiento entonces se posibilita su registro ante organizaciones 	internacionales como la Federación Mundial de Colecciones de Cultivos (WFCC de sus siglas en inglés) o la Federación Latinoamericana de Colecciones 
+	de Cultivos Microbianos (FELACC). 
+
+       5.1 ¿Qué parámetros deben cumplir las colecciones para su registro internacional?
+
+          5.1.1 Institución: La colección debe estar a cargo de una institución que acepte las distintas responsabilidades que acarrea el mantenimiento de dicha colección microbiana.  
+
+          5.1.2 Recursos: Demostrar capacidad económica y administración a largo plazo para garantizar la permanencia, el mantenimiento y el suministro de microorganismos
+
+          5.1.3 Personal: Debe contar con sufiente personal adminsitrativo y técnico para garantizar su mantenimiento. La cantidad del personal lo determinará  el pre
+	    supuesto y las numerosas labores que requieren las colecciones microbianas.
+
+          5.1.4 Identificación:
+
+          5.1.5 Preservación: se deben preservar los microorganismos en almenos dos métodos distintos para su conservación. Esto garantizará la viabilidad , estabilidad y pureza de la 	    colección microbiana. 
+
+Referencias
+
+1- 
