@@ -75,7 +75,7 @@ Código: 2228420
           5.1.3 Personal: Debe contar con sufiente personal adminsitrativo y técnico para garantizar su mantenimiento. La cantidad del personal lo determinará  el pre
 	    supuesto y las numerosas labores que requieren las colecciones microbianas.
 
-          5.1.4 Identificación:
+          5.1.4 Identificación: Se debe garantizar la autenticidad en la identificación y clasificación de los microorganismos
 
           5.1.5 Preservación: se deben preservar los microorganismos en almenos dos métodos distintos para su conservación. Esto garantizará la viabilidad , estabilidad y pureza de la 	    colección microbiana. 
 
