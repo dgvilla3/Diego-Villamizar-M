@@ -1,0 +1,149 @@
+
+
+                                                                       Lista de chequeo para el manejo de datos
+
+Nombre: Diego Armando Villamizar Mantilla
+Código: 2228420
+
+
+1 Plan de muestreo
+
+   1.1 Sitio de muestreo: Acorde a su pregunta de investigación debe dirigir su búsqueda a ambientes adecuados donde puedas recolectar 	datos, muestras o especímenes para su estudio. Es  	necesario escoger la zona geográfica que trabajará en su investigación pues, 	dependiendo de la zona (zonas protegidas, parques nacionales u otros), se exigirán los permisos 	administrativos, protocolos de 	muestreo y manejo de datos correspondientes. Para tal fin, se pretende estructurar y delimitar este trabajo al interés 	investigativo del mismo 	estudiante quien escribe esta lista y que pretende investigar bacterias de ambientes salinos. Por tal 	motivo todos los requerimientos exigidos se relacionarán con las bacterias 	de la mina de sal de Nemocón (Cundinamarca- Colombia).
+
+   1.2 Diseño Experimental y metodología: Planifique previamente a su investigación, los pasos a seguir en su experimento para la obtención de datos que le permitan realizar conclusiones 	claras y objetivas. El diseño experimental debe permitir establecer una relación entre las variables independientes y respuesta, de tal forma, pueda determinar cómo los cambios en 	la 	variables independientes causan efectos en la variable respuesta. Asimismo, el diseño debe permitir acoplarse a modelos estadísticos para el procesamiento de los datos de 	tal manera, 	las conclusiones sean verificables.	
+
+   1.3 Recolección y muestreo de campo: Para esta tarea es importante utilizar instrumentos adecuados y estériles para la recolección de microorganismos. Estructure ese trabajo siguiendo 	un protocolo estipulado para ese tipos de muestras. Utilice técnicas que le eviten sufrir en sus muestras contaminación cruzada, usando tubos con rosca, guantes y otros 	instrumentos estériles. 
+
+   1.4 Metadatos: Este es un tipo de información relevante que le permite al investigador hacer una interpretación adecuada de los datos recolectados en campo así como, de garantizar la 	reproducibilidad y trazabilidad de los datos. Los tipos de metadatos que deben incluir son los siguientes:   
+
+        1.4.1 Metadatos de la muestra: Asegúrese de etiquetar cada muestra de forma clara con información relevante para su organización como la fecha, tipo de muestra, coordenadas(GPS), 	      variables ambientales (Temperatura, pH, luminosidad, humedad relativa, salinidad entre otras).
+ 
+        1.4.2 Metadatos de preparación de muestras en el laboratorio: Es necesario especificar el método de recolección, como también los utensilios usados, volumen o masa de la muestra y 	      profundidad a la cual fue tomada la muestra (Si aplica). 
+
+        1.4.3 Metadatos técnico de laboratorio: Se debe explicar el método de aislamiento, especificando los medios de cultivo y condiciones para el crecimiento bacteriano. Por el 	 	      contrario si requiere realizar extracción de ADN/ARN, se debe detallar los protocolos para el proceso. También, describir los reactivos, enzimas o kit usados para el proceso.
+ 
+2.Permisos administrativos                       
+
+   2.1 Permiso Marco de recolección de especímenes: Cuando el trabajo del investigador en campo requiera de recolección de especímenes 	(Flora, fauna, tejidos o cualquier otro tipo de 	material biológico como bacterias), es necesario tramitar este permiso ante el 	ANLA. Este se otorga a las instituciones de investigación o Universidades para que puedan realizar 	varias salidas de campo bajo un mismo marco. Cuando las actividades de recolecta incluye territorios donde hay presencia de grupos étnicos entonces, es necesario realizar una 	consulta previa para informar a esas comunidades sobre las actividades de investigación que se van a realizar en sus territorios.
+
+   2.2 Notificación ante la CAR (Corporación Autónoma de Cundinamarca): la CAR como ente regulador ambiental regional con jurisdicción en Cundinamarca donde se encuentra la mina de sal, 	debe recibir notificación sobre las actividades recolecta e investigación que se realizar en esa zona. ES una obligación del titular del permiso MARCO informar sobre sus 	actividades de recolecta a los entes ambientales con jurisdicción local o regional. De esta forma, los entes encargados supervisan y hacen seguimiento ambiental en su jurisdicción. 
+
+   2.3 Permiso de acceso a recursos genéticos: Aplica cuando se va a utilizar organismos vivos, partes de ellos, extractos o metabolitos. También cuando se pretende usar genes, ADN o ARN, 	componentes genéticos en secuenciación y mapeo, son razones que ameritan la necesidad de tramitar este permiso. Asimismo si se pretende utilizar metabolitos, bioactivos o 	compuestos derivados de los microorganismos es necesario tramitarla para cumplir con la legislación pertinente en nuestro país (artículo 2 de la Resolución 1348 de 2014).
+
+   2.4 Permiso ante el Comité de Ética en Investigación Científica (CEINCI-UIS): Es un trámite interno que se realiza en la Universidad Industrial de Santander, cuando el proyecto 	involucra manipulación de seres vivos (Animales, plantas o humanos) e implica extracción del material genéticos, enzimas o metabolitos u otros productos derivados entonces se debe 	tramitar este permiso. Dichas solicitudes deben presentarse con antelación (mínimo 8 días antes de la sesión programada, https://uis.edu.co/wp-content/uploads/2024/12/CIRCULAR-	Cronograma-sesiones-CEINCI-.pdf). Sin embargo, la Universidad Industrial de Santander cuenta con un contrato marco de acceso a recursos genéticos y sus productos derivados 	(Resolución 1312 de 	2023). Esto sugiere que la universidad ya cuenta con ese permiso por lo cual, el tramite interno ante el comité de ética sería para verificar si el proyecto 	ya está cubierto por 	esa resolución o no. 
+
+3. Logística
+
+   3.1 Transporte: Se debe escoger el tipo de vehículo (Bus, camionera o campero) el cual debe estar en buen estado y cumplir con las inspecciones anuales de tecno mecánico y contar la 	seguridad contra accidente (SOAT). EL vehículo debe contar con la capacidad de carga y pasajeros que se necesite.
+
+   3.2 Seguros: 
+	3.2.1 Cada integrante de la salida debe contar con un seguro de accidentes personales
+	3.2.2 Seguro de transporte para equipos y materiales. Usualmente se refiere a "Programa de Seguros Generales UIS".
+	3.2.3 Plan de primeros auxilios y kit de emergencias.
+	3.2.4 Protocolo en caso de emergencia. Este es un plan que establece el accionar apropiado en caso de que un viajero sufra un accidente, con el fin de garantizar un respuesta 	      	      adecuada ante esa situación. 
+
+   3.3 Lista de materiales y equipos: Esta lista debe mencionar todo los instrumento, dispositivo o equipos necesarios para realizar las actividades de campo (bolsos de   	      campo, 	bitácora, microscopio, tubos falco estériles, alcohol 98%, guantes de nitrilo, baterías, cargadores, cámaras, GPS y comunicaciones).
+
+   3.4 seguridad personal y ambiental: Se debe incluir elemento de protección personal como botas, guantes y gafas. También incluir medidas de bioseguridad para evitar contaminación de las 	muestras o el sitio de trabajo.
+
+4. Manipulación de datos
+
+   4.1 ingresar toda la información recopilada a una base de datos, utilizando un lenguaje estandarizado según la (Biodiversity information standards, https://www.tdwg.org/standards/dwc/).  	Esto permitirá en trabajos de biodiversidad estructurar y compartir datos de ocurrencias, coordenadas geográficas, muestras y observaciones biológicas de manera uniforme. 
+
+   4.2 Elementos comunes en el documento DARwinCore: Defina y utilice cuáles serán los elementos que usará en el documento para organizar los metadatos. Existen un gran número de campos,   	no es necesarios utilizar todos sino los más relevante para la investigación que se desarrolla. Por ejemplo ventDate — fecha del muestreo; decimalLatitude / decimalLongitude — 	latitud y longitud en coordenadas decimales; scientificName — nombre científico del organismo; occurrenceID — identificador único de la ocurrencia / muestra, basisOfRecord — 	categoría del registro (por ejemplo “PreservedSpecimen”, “Observation”, “MaterialSample”); samplingProtocol — método o protocolo usado para muestrear; identifiedBy — persona(s) que 	identificaron la muestra; entre otros).
+
+   4.3 Cargar los datos al Sistema de Información de Biodiversidad (SIB): Para tal fin, crea un recurso en el IPT (del inglés Integrated Publishing Toolkit) y cargue los datos en la página 	(https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt).
+ 
+   4.4 Informe ante el ANLA: presentar un informe final de actividades de recolección relacionadas dentro de cada investigación adscrita a los programas de investigación. Este documento se 	debe presentar para dar cumplimiento a una de las obligaciones que el titular del permiso MARCO adquiere tras su aprobación. El informe debe tener:
+       
+       4.4.1 Información relacionada al material colectado: Registre la cantidad de especímenes colectados (flora, fauna y microorganismos).
+
+       4.4.2 Datos de muestreo (ver acápite "plan de muestreo", sesión Metadatos)
+
+       4.4.3 Artículos científicos o publicaciones: Incluir los logros alcanzados y publicaciones derivadas de la investigación.  
+
+       4.4.4 Espécimen depositado en colecciones: Presentar la constancia del depósito del espécimen a la autoridad pertinente y la colección encargada de su preservación. 
+
+       4.4.5 Plantilla SIB: Presentar la constancia de la publicación de los datos en el sistema de Información en Biodiversidad de Colombia (SIB).
+
+       4.4.6 Informe final del trabajo: Debe presentar un documento donde resuma las actividades y resultados más importantes de ese trabajo. 
+
+   4.5 Administración responsables de los datos: Utiliza la herramienta GitHub para garantizar la organización de los datos, su trazabilidad, control de versiones y colaboraciones. 
+      
+       4.5.1 Cree una cuenta GitHub y un repositorio de acceso restringido donde pueda organizar la información de su investigación
+
+       4.5.2 Establezca en el repositorio nombre de archivos para que todo quede claro. Estructure el repositorio usando carpetas donde pueda organizar los resultados, scripts, figuras y 	     textos relacionados con la investigación
+
+       4.5.3 Cree un archivo README, donde explique cómo está estructurado el repositorio, el propósito de su proyecto y  el contenido de cada archivo.
+
+       4.5.4 Asocie cualquier aporte que realice un colaborador a su investigación a la herramienta GitHub, usando y permitiendo el acceso de su repositorio creado anteriormente. Esto 	     garantizará el registro de un historial del proceso y la transparencia de la investigación.
+
+       4.5.5 Realice una copia (Backup) externa al sitio de origen de su repositorio GitHub. Esto garantizará la seguridad y prevalencia de los datos. También puede hacer clones de su 	     repositorio para tal fin.
+
+       4.5.6 Revisión pre publicación: Realice un registro de versiones de los resultados donde señale cuál commit fue usado en GitHub para los análisis finales antes de la publicación. 
+             
+  
+       4.5.7 Revisión post publicación: Use GitHub para organizar los comentarios atendidos para cada revisor, señalando las respectivas modificaciones en el documento.
+
+    4.6 Acuerdo de confidencialidad: Si es necesario, celebren un contrato donde todas las partes del personal de investigación que participó en el proyecto, se comprometan a la no 	divulgación de los resultados, información relevantes, datos personales, secretos comerciales o invenciones importantes para el proyecto. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
