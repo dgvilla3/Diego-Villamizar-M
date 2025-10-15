@@ -1,0 +1,43 @@
+Título del proyecto : Evaluación del potencial antimicrobiano de las bacterias pigmentadas aislados en ambientes salinos
+
+Investigador principal: Diego Armando Villamizar Mantilla
+                        Código: 2228420
+
+ 
+1- Justificación del estudio: La industria farmacéutica lidia con la problemática que muchas bacterias están adquiriendo adaptaciones genéticas que les confieren resistencia a varios tipos de antibióticos. Esta situación tiene consecuencias para la  salud pública humana pues una infección bacteriana se vuelve cada día más difícil de tratar en el organismo. 
+Por tal motivo urge la necesidad de encontrar alternativas que nos permitan ampliar nuestro almacén farmacéutico contra las infecciones bacterias. Para tal fin, las bacterias extremófilas de ambientes salinos podrían ser una potencial fuente de bioactivos útiles en la industria farmacéutica para mitigar esta situación con la resistencia bacteriana. 
+ 
+
+2- Objetivo:
+
+   2.1- Determinar la concentración mínima inhibitoria del extracto pigmentado sobre la cepa testadora resistente a los antibióticos. 
+         
+
+3- procedimientos: 
+
+   3.1- Evaluación In vitro:
+	3.1.1 Se siembra en caldos de 7 ml las muestra de extremófilo puro.
+	3.1.2 se deja crecer durante 7 días aproximadamente hasta que alcance su fase estacionaria o una densidad óptica de 0.5 a 600nm (1.5*10^8 UFC/mL)
+	3.1.3 se centrifuga a 5000 rpm durante 7 minutos las muestra, para separar los pigmentos disueltos en el sobrenadante de las bacterias acumuladas en el pellet. En este paso la 	      bacteria puede experimentar daños en su integridad celular debido a la presión mecánica que genera la fuerza centrífuga sobre la membrana celular. En casos leves producen 	      microlesiones que afecten la permeabilidad celular pero, en casos más graves rupturas que terminen afectando su viabilidad (muerte celular). Adicionalmente, la morfología de 	      las bacterias pueden versen alteradas, deformándose o aplanándose cuando formen el pellet. Por tal motivo, se debe trasladar el pellet a un caldo fresco para 	  	      	      ayudar a su recuperación celular y garantizar su viabilidad.
+	3.1.4 Prepare un gradiente de concentración del pigmentos extraído del medio líquido sobre una placa de 96 pozos.
+	3.1.5 Prepara la cepa testadora: Esta debe ser una especie modificada genéticamente para facilitar su manipulación y reducir cualquier riesgo de infección en el humano pero que, 	      conserve su fenotipo de resistencia a los antibióticos. 
+        3.1.6 Inocule la cepa testadora en cada uno de los pozos a lo largo del gradiente de concentración del pigmento extraído.
+	3.1.7 Revise al cabo 4 días su crecimiento: La presencia de turbidez en el medio será indicativo de crecimiento bacterianos; en caso contrario, la ausencia de turbidez significará 	      inhibición de su crecimiento y será un resultado positivo para la actividad antimicrobiana del extracto pigmentado sobre la bacteria testadora resistente a los antibióticos. 
+
+4- Molestias o riesgos esperados: las bacterias pueden experimentar cambios fisiológicos, como una reducción de su actividad metabólica, cuando el medio líquido se agote de los nutrientes   	durante su crecimiento. Puede que muchas bacterias no resistan a estos cambios y mueran debido al estrés generado por la competencia a los pocos nutrientes disponibles en el medio 	líquido. 
+
+5- Beneficios que pueden obtenerse: el bienestar bacteriano se favorece con el traspaso a caldos nuevos y fresco. Esto previene la acumulación de compuestos celulares que podrían alterar 	el pH, se acumulen ácidos orgánico o otros tipos de radicales afecten negativamente a la célula. 
+
+6- Procedimiento alternativo que pudiese ser ventajoso para el sujeto: El recambio constante de medios líquidos por uno fresco. Garantizará que las bacterias nunca estén fallos de 	nutrientes. Por tal motivo, su metabolismo se mantendrá siempre activo, favoreciendo sus funciones y su viabilidad celular.
+
+7- Principio de autonomía:  se tendrá en cuenta el principio ético fundamental de Beauchamp y Childress donde especifican que el investigador reconoce la 	autonomía de los 	participantes y provee información clara sobre los riesgos, beneficios, objetivos, manejo de datos y procedimientos del estudio para su consentimiento. Su aprobación dejará en 	manifiesto que las cepas aceptan cualquier todo riesgo o beneficio que implique su participación en el proyecto. 
+
+8- se garantizará que la identidad taxonómica bacteriana esté siempre bajo confidencialidad del proyecto. Esto garantizará que los obtenidos sobre la utilidad de sus metabolitos, pigmentos 	y fenotipos se le den un uso controlado y privado en la especie bacteriana. 
+
+8- Principio de no maleficiencia: El investigador esta en la obligación de proporcionar información actualizada sobre el tema, especialmente sobre el procedimiento técnico empleado para la 	obtención de datos, procurando minimizar cualquier daño posible sobre la viabilidad bacteriana. 
+
+9- Espacio en blanco para la firma el sujeto de investigación: ya que las bacterias no pueden firmar, se imprimirá la secuencia de aminoácido del gen ribosomal 16s como huella genética que 	permita su identificación
+
+
+
+
